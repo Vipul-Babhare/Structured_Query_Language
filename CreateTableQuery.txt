@@ -1,0 +1,2 @@
+Query to create a table:-
+	create table scorecard(student_id int,Subject varchar(255) not null,Score decimal(5,2) not null);
