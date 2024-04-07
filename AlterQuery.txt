@@ -1,0 +1,3 @@
+Alter Statement and Update 
+	Alter table Student add cohort varchar(255);
+	Update students set cohort = 'DS3A';
